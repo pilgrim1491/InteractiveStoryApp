@@ -8,7 +8,7 @@ public class Choice {
         this.textId = textId;
         this.nextPage = nextPage;
     }
-
+    //comment
     public int getTextId() {
         return textId;
     }
